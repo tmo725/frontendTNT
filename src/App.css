@@ -1,0 +1,9 @@
+.main{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+h1{
+  color : blueviolet;
+}
